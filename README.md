@@ -3,15 +3,10 @@
 </p>
 <h1 align="center">
   <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
-</h1>
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax?style=flat-square&color=black)](https://github.com/Aadhi000/Ajax)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax/graphs/contributors)
+  <p align="center">
+<a href="#"><img title="V4MP1R3" src="https://img.shields.io/badge/V4MP1R3-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 ## Features
 
 - [x] Auto Filter
