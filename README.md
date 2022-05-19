@@ -1,28 +1,39 @@
 <p align="center">
-  <img src="assets/ALEXA.png" alt="Ajax Techz">
+  <img src="assets/ALEXA3.png" alt="Ajax Techz">
 </p>
-<h1 align="center">
-  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
 
   <p align="center">
-<a href="#"><img title="V4MP1R3" src="https://img.shields.io/badge/V4MP1R3-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALEXA-V2" src="https://img.shields.io/badge/ALEXA V2-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-## Features
 
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
 
-## Variables
+## 🔗Features
+
+<b><details><summary>Features Of Alexa-v2</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Auto Filter     |       ✅     |
+|   Manual Filter     |       ✅     |
+|   IMDB     |       ✅    |
+|   Admin Commands     |       ✅     |
+|   Broadcast     |       ✅     |
+|   Index     |       ✅      |
+|   IMDB search     |       ✅      |
+|   Inline Search     |       ✅      |
+|   Random pics     |       ✅     |
+|   ids and User info     |       ✅     |
+|   Stats, Users     |       ✅      |
+|   Chats, Ban     |       ✅      |
+|   Unban, Leave     |       ✅     |
+|   Disable, Channel     |       ✅     |
+|   Spelling Check Feature     |       ✅      |
+|   Carbon     |       ✅      |
+</a>
+</p>
+</details> 
+
+## 🔗Variables
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -35,36 +46,21 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
+  </a>
+</p>
+</details>
 
-
-## Deploy
-You can deploy this bot anywhere.
-
-
-
+## 🔗Deploy
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/Aadhi000/Ajax
-# Install Packages
-pip3 install -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
-
-
-## Commands
+## 🔗Commands
 ```
 • /logs - to get the rescent errors
 • /stats - to get status of files in db.
@@ -89,3 +85,16 @@ python3 bot.py
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to Ajax users
+```
+
+## 👨‍💻 Developers & Contributors 👨‍💻
+
+ [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3) |
+----|
+[TG-V4MP1R3](https://github.com/TG-V4MP1R3)  | 
+Author: Developer, Base, Bug Fixes, Commits, Modules | 
+
+
+##
+
+   **Star this Repo if you Liked it ⭐⭐⭐**
