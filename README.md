@@ -84,7 +84,7 @@
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to Ajax users
+• /broadcast - to broadcast a message to Alexa users
 ```
 
 ## 👨‍💻Developers & Contributors👨‍💻
