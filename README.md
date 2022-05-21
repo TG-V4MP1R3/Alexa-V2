@@ -90,7 +90,7 @@
 
  [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3) |
 ----|
-[TG-V4MP1R3](https://github.com/TG-V4MP1R3)  | 
+[TG-V4MP1R3](https://t.me/KP51107)  | 
 Author: Developer, Base, Bug Fixes, Commits, Modules | 
 
 
