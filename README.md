@@ -51,7 +51,6 @@
 </details>
 
 ## 🔗Deploy
-<details><summary>Deploy To Heroku</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-V2">
