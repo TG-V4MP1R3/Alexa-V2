@@ -367,7 +367,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
-            await query.answer("𝐢 𝐋𝐢𝐤𝐞 𝐘𝐨𝐮𝐫 𝐒𝐦𝐚𝐫𝐭𝐧𝐞𝐬𝐬...😌",show_alert=True)
+            await query.answer("I Like Your Smartness, But Don't Be Oversmart 😒",show_alert=True)
             return
         ident, file_id = query.data.split("#")
         files_ = await get_file_details(file_id)
