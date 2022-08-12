@@ -87,7 +87,6 @@
 • /broadcast - to broadcast a message to Alexa users
 ```
 
-
 ## Developers & Contributors👨‍💻
 
  [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3) |
