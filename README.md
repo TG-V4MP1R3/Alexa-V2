@@ -56,6 +56,8 @@
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f3gwAC?referralCode=9nmXeW)
 </a>
 </p>
 </details>
